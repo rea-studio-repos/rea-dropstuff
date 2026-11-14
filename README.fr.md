@@ -1,7 +1,7 @@
 <p align="center"><img src="icon.webp" width="104" alt="Icône de REA DropStuff"></p>
 <h1 align="center">REA DropStuff</h1>
 <p align="center">Créez des archives StuffIt par glisser-déposer sur votre Mac.</p>
-<p align="center"><strong><a href="https://github.com/rea-studio-repos/rea-dropstuff/releases/download/v1.1.3/REA-DropStuff-1.1.3-macOS.dmg">Télécharger le DMG · 1.1.3</a></strong> · <a href="https://rea.com.co/fr/applications/rea-dropstuff/">Site officiel</a> · <a href="README.md">English</a></p>
+<p align="center"><strong><a href="https://rea.com.co/fr/applications/rea-dropstuff/download/">Télécharger REA DropStuff</a></strong> · <a href="https://rea.com.co/fr/applications/rea-dropstuff/">Site officiel</a> · <a href="README.md">English</a></p>
 
 ![REA DropStuff pour macOS : l’icône officielle et la véritable fenêtre de dépôt, avec StuffIt X sélectionné.](showcase.webp)
 
@@ -22,12 +22,12 @@ Une fois l’archive créée, cliquez sur **Refaire en…** pour reprendre les m
 
 ## Installer sur votre Mac
 
-1. [Téléchargez REA DropStuff 1.1.3 (.dmg)](https://github.com/rea-studio-repos/rea-dropstuff/releases/download/v1.1.3/REA-DropStuff-1.1.3-macOS.dmg).
+1. [Demandez le lien de téléchargement macOS sur le site officiel](https://rea.com.co/fr/applications/rea-dropstuff/download/).
 2. Ouvrez l’image disque et glissez **REA DropStuff** dans **Applications**.
 3. Lancez l’application, choisissez `.sit` ou `.sitx` et déposez vos fichiers ou dossiers.
 
 L’interface est disponible en français, anglais, espagnol, portugais, allemand et italien.
 
-Ce dépôt héberge les installateurs officiels et la documentation. L’installateur est le **DMG** ; les archives ZIP et TAR.GZ générées par GitHub ne contiennent ni l’application ni son code source.
+Ce dépôt présente le produit. Le site officiel REA propose l’image disque macOS signée et notarisée.
 
-[Notes de version](https://github.com/rea-studio-repos/rea-dropstuff/releases/tag/v1.1.3) · [REA Studio](https://rea.com.co/fr/)
+[Présentation du produit](https://rea.com.co/fr/applications/rea-dropstuff/) · [Téléchargement officiel](https://rea.com.co/fr/applications/rea-dropstuff/download/) · [REA Studio](https://rea.com.co/fr/)
